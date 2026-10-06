@@ -1,4 +1,4 @@
-# CMPSC-9: Intermediate Python
+# CMPSC 9 - Intermediate Python
 
 Course taken at UC Santa Barbara
 
@@ -12,3 +12,5 @@ Includes:
   4. Software testing methodologies
 
 This repository consists of the notes I took throughout this course as well as labs during discussion sections using the IDLE Shell 3.14.2 and VS Code 2.
+
+Ending Grade: A
